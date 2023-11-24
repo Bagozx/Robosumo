@@ -15,7 +15,6 @@ Ultrasonic ultrasonic(trigger, echo);
   
 void setup()
 {
-  
   pinMode(S1, INPUT);
   pinMode(S2, INPUT);
  pinMode(PH1, OUTPUT);
